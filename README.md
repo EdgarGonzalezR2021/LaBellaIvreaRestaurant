@@ -1,4 +1,4 @@
-# Demo : # Demo : https://react-restaurant-reservation.herokuapp.com
+# Demo : https://react-restaurant-reservation.herokuapp.com
 ## Want to use This as your Portfolio page??
 Its very Simple
 
